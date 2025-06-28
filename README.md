@@ -1,2 +1,2 @@
 # predictive-distributed-online-control-master
-Distributed control with shared/private predictions
+Distributed control with shared/private predictions.
