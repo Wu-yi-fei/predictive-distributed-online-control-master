@@ -21,10 +21,11 @@ This repository provides a example scripts from the paper _“Multi-Source Predi
    ```bash
    python voltage_control.py
    ```
-   This will build the environment (e.g., via `case5_env.py`), execute control rollouts, and print/plot key metrics.
+   This will build the environment (e.g., via `case57_env.py`), execute control rollouts, and print/plot key metrics of bus 5.
 
 ## Notes
 - The code is a concise, self-contained pipeline for the method of TPWRS submission.
 - For larger networks or custom data, extend the environment definition (mirroring `case5_env.py`) and adjust the driver accordingly.
+
 
 
