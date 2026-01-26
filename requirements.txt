@@ -1,0 +1,7 @@
+numpy>=1.21
+scipy>=1.7
+control>=0.9
+torch>=1.12
+scikit-learn>=1.0
+matplotlib>=3.4
+
