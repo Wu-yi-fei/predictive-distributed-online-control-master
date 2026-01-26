@@ -25,7 +25,8 @@ This repository provides a example scripts from the paper _“Multi-Source Predi
 
 ## Notes
 - The code is a concise, self-contained pipeline for the method of TPWRS submission.
-- For larger networks or custom data, extend the environment definition (mirroring `case5_env.py`) and adjust the driver accordingly.
+- For larger networks or custom data, extend the environment definition (mirroring `case57_env.py`) and adjust the driver accordingly.
+
 
 
 
